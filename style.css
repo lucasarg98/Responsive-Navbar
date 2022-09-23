@@ -57,7 +57,7 @@ ul li {
 
 .links .link a:hover {
   color:rgb(191, 108, 5);
-  transition: 1.5s;
+  transition: 0.5s;
 }
 
 .toggle {
